@@ -641,6 +641,10 @@ p {
   fill: var(--accent-color);
 }
 
+.modal-label:focus-within {
+  border-color: var(--accent-color);
+}
+
 .modal-label:focus-within .label-text,
 .modal-input:not(:placeholder-shown) + .label-text {
   transform: translate(0, -37px);
