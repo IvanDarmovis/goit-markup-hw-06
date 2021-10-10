@@ -641,7 +641,7 @@ p {
   fill: var(--accent-color);
 }
 
-.modal-label:focus-within {
+.modal-input:focus {
   border-color: var(--accent-color);
 }
 
