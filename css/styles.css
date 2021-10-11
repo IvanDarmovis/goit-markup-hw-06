@@ -642,6 +642,7 @@ p {
 }
 
 .modal-input:focus {
+  outline: none;
   border-color: var(--accent-color);
 }
 
